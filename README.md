@@ -1,0 +1,3 @@
+#cabecera
+
+contenido del archivo
